@@ -12,4 +12,4 @@ This is another version of the integer-array data structures exercise, with `Arr
 In Eclipse, create a Java project and put `ArrayyInt.java` and `Main.java` into package `solutionlab1`. Run `Main.java`. If your Eclipse project has no module setup, you may remove `module-info.java` from your **local** non-modular copy.
 
 ## Notes
-Try testing empty/full arrays and missing values. These are course exercises; edge cases need careful handling before using the class as a general library.
+The implementation now handles full-array insertion and average calculations without an error for empty even-number sets; it also includes working linear search and selection sort. Test empty/full arrays and missing values. This remains a classroom exercise.
