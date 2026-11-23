@@ -1,5 +1,6 @@
 package solutionlab1;
 
+/** Array exercise: insert, delete, search, sort and display integers. */
 public class ArrayyInt {
     private int[] a;
     private int currentNb;
